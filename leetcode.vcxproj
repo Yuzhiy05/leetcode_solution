@@ -133,6 +133,7 @@
     <ClCompile Include="solution63.cpp" />
     <ClCompile Include="solution746.cpp" />
     <ClCompile Include="solution96.cpp" />
+    <ClCompile Include="solution228.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defult.h" />
